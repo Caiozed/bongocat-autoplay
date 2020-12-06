@@ -2,4 +2,4 @@
 
 ## Made for the [Bongocat](https://bongo.cat/).
 
-just copy the content on autoplay.js and past on the console to play Come as you are - Nirvana :)
+just copy the content on autoplay.js and paste it on the console to play Come as you are - Nirvana :)
